@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parwez07" alt="parwez07" /></a> </p>
 
-- 🔭 I’m currently working on [expensify](www.github.com/Parwez07/Expensify)
+- 🔭 I’m currently working on [expensify](https://github.com/parwez07/Expensify)
 
 - 🌱 I’m currently learning **Python,SpringBoot**
 
