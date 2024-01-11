@@ -37,5 +37,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parwez07&show_icons=true&locale=en&layout=compact" alt="parwez07" /></p>
 
 
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parwez07&" alt="parwez07" /></p>
 
