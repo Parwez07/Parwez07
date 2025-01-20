@@ -9,15 +9,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parwez07" alt="parwez07" /></a> </p>
 
-- 🔭 I’m currently working on [expensify](https://github.com/parwez07/Expensify)
+- 🔭 I’m currently working on [TaskManager](https://github.com/Parwez07/TaskManager)
 
-- 🌱 I’m currently learning **Python,SpringBoot**
+- 🌱 I’m currently learning **SpringBoot**
 
 - 💬 Ask me about **Android development**
 
 - 📫 How to reach me **h786parwezalam@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1CXvKwZ4_WH7Az-M7Jq4czduEiIJaRMW-/view?usp=drivesdk](https://drive.google.com/file/d/1CXvKwZ4_WH7Az-M7Jq4czduEiIJaRMW-/view?usp=drivesdk)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1D6MJQHdI5ACYBaf8vIOGl6HXVDtfDgbF/view?usp=drivesdk ](https://drive.google.com/file/d/1D6MJQHdI5ACYBaf8vIOGl6HXVDtfDgbF/view?usp=drivesdk )
 
 - ⚡ Fun fact **I am a good Cricketer**
 
