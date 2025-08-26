@@ -9,9 +9,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parwez07" alt="parwez07" /></a> </p>
 
-- 🔭 I’m currently working on [TaskManager](https://github.com/Parwez07/TaskManager)
+- 🏢🖥️ I work in TCS as **Backend Developer.**
 
-- 🌱 I’m currently learning **SpringBoot**
+-  🌱 I’m currently learning **React Js**
+  
+- 🔭 My last Project was [TaskManager](https://github.com/Parwez07/TaskManager)
+
+- 🌱 I’m **Java Full Stack developer**
 
 - 💬 Ask me about **Android development**
 
